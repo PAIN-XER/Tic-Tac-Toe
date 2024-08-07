@@ -52,7 +52,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or issues, please contact [GitHub] (https://github.com/gopal0611).
+For any questions or issues, please contact [GitHub](https://github.com/gopal0611).
 
 ---
 
