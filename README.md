@@ -54,6 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or issues, please contact [GitHub](https://github.com/gopal0611).
 
----
 
-Feel free to adjust any sections as needed or let me know if there are specific details you want to include!
