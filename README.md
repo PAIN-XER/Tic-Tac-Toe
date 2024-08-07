@@ -1,6 +1,3 @@
-Got it! Here’s a revised README tailored for an HTML, CSS, and JavaScript project:
-
----
 
 # Tic-Tac-Toe
 
